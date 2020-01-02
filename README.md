@@ -9,6 +9,21 @@
 [![alt text][InstagramIcon]][Instagram]
 [![alt text][TelegramIcon]][Telegram]
 
+### #160 Newline At End Of File
+![alt text](/screenshots/NewlineAtEndOfFile.png)
+
+### #159 Calling Java from Kotlin - Notation For Platform Types
+![alt text](/screenshots/NotationForPlatformTypes.png)
+
+### #158 App Background - Foreground Listener
+![alt text](/screenshots/AppFgBgListener.png)
+
+### #157 Automatically encrypts keys and values and adheres to the SharedPreference Interface
+![alt text](/screenshots/EncryptedSharedPreferences.png)
+
+### #156 Drawable vs Mipmap Folders
+![alt text](/screenshots/DrawableVsMipMapFolders.jpg)
+
 ### #155 Extension functions for View Model Providers
 ![alt text](/screenshots/ViewModelExtension.png)
 
